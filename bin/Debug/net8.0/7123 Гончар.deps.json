@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "7123 Гончар/1.0.0": {
+        "runtime": {
+          "7123 Гончар.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7123 Гончар/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
